@@ -12,4 +12,4 @@
 <hr>
 <hr>
 ***
-Feel free to star ⭐ this repository if you like what you see 😉.
+Feel free to star ⭐ this repository if you like it!
